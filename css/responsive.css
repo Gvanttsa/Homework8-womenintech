@@ -14,5 +14,11 @@
         align-items: center;
         height: auto;
     }
-    
+}
+
+
+@media (max-width:756px) {
+    .container {
+        justify-content: center;
+    }
 }
